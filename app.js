@@ -26,6 +26,6 @@ app.get('/user',(req,res)=>{
 
 
 
-app.listen(8080,()=>{
+app.listen(80,()=>{
     console.log("listing to port 8080");
 })
